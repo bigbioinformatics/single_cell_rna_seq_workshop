@@ -18,4 +18,4 @@ The workshop is broken up into several interactive modules:
 
 Navigate to the folder for each module to view the relevant scripts, assignments, and lecture materials. 
 
-Please read the syllabus (in this directory) for workshop details. If you haven't already, make sure to enroll by filling out the online form: tiny.cc/single-cell-bootcamp
+Please read the syllabus (in this directory) for workshop details. **If you haven't already, make sure to enroll by filling out the [online form](tiny.cc/single-cell-bootcamp)**
