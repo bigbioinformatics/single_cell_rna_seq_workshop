@@ -1,4 +1,7 @@
+*.Rproj.user*
+*.Rhistory*
+*.RData*
+*.Ruserdata*
+*.mp4
+
 .Rproj.user
-.Rhistory
-.RData
-.Ruserdata
