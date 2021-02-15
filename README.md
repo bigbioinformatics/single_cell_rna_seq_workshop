@@ -9,8 +9,8 @@ Welcome to the Bioinformatics Bootcamp Advanced topics workshop on **Single Cell
 - Present the results of scRNA-Seq analyses with publication-quality figures.
 
 The workshop is broken up into several interactive modules:
-1. Review of R programming and bulk RNA-Seq analysis 
-2. Introduction to single cell biology 
+1. Introduction to single cell biology and loading single cell datasets
+2. Single cell data preparation
 3. Manifold learning with single cell datasets
 4. Biological interpretation of single cell RNA-Seq
 5. Data integration, cell cycle, and other advanced topics in scRNA-Seq analysis
