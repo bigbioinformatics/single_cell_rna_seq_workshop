@@ -1,0 +1,35 @@
+metadataColname	shortDescription	longDescription
+batch	Library	10X library
+patient	Individual	Individual for which cell belong to (AD1-AD6, Ct1-Ct6); some cells are unassigned (AD-un, Ct-un)
+sex	Sex	Biological sex of individual
+nGene	No. Detected Genes	Number of detected genes (UMI > 0)
+nUMI	No. UMIs	Number of UMIs
+pctMT	Percentage MT Genes	Percentage of UMIs belonging to mitochondrial genes
+cellType	Cell Type	Cell type annotation
+batchCond	Condition (based on Library)	AD or control based on individual assignment
+subclustCond	Condition (based on Subcluster)	AD or control based on subcluster composition
+subIDm	Subcluster (microglia)	Subcluster ID for microglia (non-microglia cells are denoted ZZZ)
+subIDa	Subcluster (astrocyte)	Subcluster ID for astrocyte (non-astrocyte cells are denoted ZZZ)
+subIDn	Subcluster (neuron)	Subcluster ID for neuron (non-neuron cells are denoted ZZZ)
+subIDo	Subcluster (oligodendrocyte)	Subcluster ID for oligodendrocyte (non-oligodendrocyte cells are denoted ZZZ)
+subIDO	Subcluster (OPC)	Subcluster ID for OPC (non-OPC cells are denoted ZZZ)
+subIDe	Subcluster (endothelial)	Subcluster ID for endothelial (non-endothelial cells are denoted ZZZ)
+subIDu	Subcluster (Unidentified)	Subcluster ID for Unidentified (non-Unidentified cells are denoted ZZZ)
+subIDh	Subcluster (Hybrid)	Subcluster ID for Hybrid (non-Hybrid cells are denoted ZZZ)
+mg	microglia score	score for microglia gene signature
+astro	astrocyte score	score for astrocyte gene signature
+neuron	neuron score	score for neuron gene signature
+oligo	oligodendrocyte score	score for oligodendrocyte gene signature
+OPC	OPC score	score for OPC gene signature
+endo	endothelial score	score for endothelial gene signature
+UMAP1_ALL	UMAP1 Loading	UMAP1 coordinates for global UMAP
+UMAP2_ALL	UMAP2 Loading	UMAP2 coordinates for global UMAP
+PC1_ALL	PC1 Loading	PC1 coordinates for global PCA
+PC2_ALL	PC2 Loading	PC2 coordinates for global PCA
+PC3_ALL	PC3 Loading	PC3 coordinates for global PCA
+subclustID	Subcluster	Subcluster ID across all cell types
+UMAP1_ct	UMAP1 Loading	UMAP1 coordinates for celltype-specific UMAP
+UMAP2_ct	UMAP2 Loading	UMAP2 coordinates for celltype-specific UMAP
+PC1_ct	PC1 Loading	PC1 coordinates for celltype-specific PCA
+PC2_ct	PC2 Loading	PC2 coordinates for celltype-specific PCA
+PC3_ct	PC3 Loading	PC3 coordinates for celltype-specific PCA
